@@ -48,7 +48,7 @@ spec:
   packages:
     disable: true
   workerNodeGroupConfigurations:
-  - count: 1
+  - count: 3
     machineGroupRef:
       kind: CloudStackMachineConfig
       name: i-0913d002d0ab652ed-0a655ba
